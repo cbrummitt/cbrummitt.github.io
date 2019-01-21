@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles D. Brummitt on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/authors/charles-d.-brummitt/</link>
+    <description>Recent content in Charles D. Brummitt on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/authors/charles-d.-brummitt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine-learned patterns suggest that diversification drives economic development</title>
+      <link>https://cbrummitt.github.io/publication/id_pat_econ_dev/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/id_pat_econ_dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contagious disruptions and complexity traps in economic development</title>
+      <link>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
