@@ -7,9 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Sat, 01 Sep 2012 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://cbrummitt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cellular Automata</title>
+      <link>https://cbrummitt.github.io/tags/cellular-automata/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/cellular-automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos</title>
+      <link>https://cbrummitt.github.io/tags/chaos/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Crises</title>
+      <link>https://cbrummitt.github.io/tags/financial-crises/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/financial-crises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://cbrummitt.github.io/tags/infrastructure/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>https://cbrummitt.github.io/tags/networks/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Differential Equations</title>
+      <link>https://cbrummitt.github.io/tags/partial-differential-equations/</link>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/partial-differential-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Percolation</title>
+      <link>https://cbrummitt.github.io/tags/percolation/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/percolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Grids</title>
+      <link>https://cbrummitt.github.io/tags/power-grids/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/power-grids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Organized Criticality</title>
+      <link>https://cbrummitt.github.io/tags/self-organized-criticality/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/self-organized-criticality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Risk</title>
+      <link>https://cbrummitt.github.io/tags/systemic-risk/</link>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/tags/systemic-risk/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

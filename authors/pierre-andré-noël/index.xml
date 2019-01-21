@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre-André Noël on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/authors/pierre-andr%C3%A9-no%C3%ABl/</link>
+    <description>Recent content in Pierre-André Noël on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Fri, 16 Aug 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/authors/pierre-andr%C3%A9-no%C3%ABl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Controlling self-organizing dynamics using models that self-organize</title>
+      <link>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

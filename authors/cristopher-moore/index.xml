@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cristopher Moore on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/authors/cristopher-moore/</link>
+    <description>Recent content in Cristopher Moore on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Tue, 23 Jul 2013 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/authors/cristopher-moore/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transdisciplinary electric power grid science</title>
+      <link>https://cbrummitt.github.io/publication/power_grid_opinion_pnas/</link>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/power_grid_opinion_pnas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

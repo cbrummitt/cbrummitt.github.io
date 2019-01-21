@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Percolation on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/tags/percolation/</link>
+    <description>Recent content in Percolation on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Wed, 24 Jun 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/tags/percolation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cascades in multiplex financial networks with debts of different seniority</title>
+      <link>https://cbrummitt.github.io/publication/multiplex_financial/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/multiplex_financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jigsaw percolation: What social networks can collaboratively solve a puzzle?</title>
+      <link>https://cbrummitt.github.io/publication/jigsaw_percolation/</link>
+      <pubDate>Thu, 21 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/jigsaw_percolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threshold cascades with response heterogeneity in multiplex networks</title>
+      <link>https://cbrummitt.github.io/publication/threshold_cascade_response_heterogeneity/</link>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/threshold_cascade_response_heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottom-up model of self-organized criticality on networks</title>
+      <link>https://cbrummitt.github.io/publication/bottom-up_model_soc_networks/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/bottom-up_model_soc_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling self-organizing dynamics using models that self-organize</title>
+      <link>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplexity-facilitated cascades in networks</title>
+      <link>https://cbrummitt.github.io/publication/multiplexity_facilitated_cascades_networks/</link>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/multiplexity_facilitated_cascades_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

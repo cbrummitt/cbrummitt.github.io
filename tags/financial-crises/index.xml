@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Crises on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/tags/financial-crises/</link>
+    <description>Recent content in Financial Crises on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2018</copyright>
+    <lastBuildDate>Wed, 24 Jun 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/tags/financial-crises/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cascades in multiplex financial networks with debts of different seniority</title>
+      <link>https://cbrummitt.github.io/publication/multiplex_financial/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/multiplex_financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inside Money, Procyclical Leverage, and Banking Catastrophes</title>
+      <link>https://cbrummitt.github.io/publication/inside_money_procyclical_leverage/</link>
+      <pubDate>Tue, 19 Aug 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/inside_money_procyclical_leverage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
