@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrés Gómez-Liévano on Charlie Brummitt</title>
-    <link>https://cbrummitt.github.io/authors/andr%C3%A9s-g%C3%B3mez-li%C3%A9vano/</link>
-    <description>Recent content in Andrés Gómez-Liévano on Charlie Brummitt</description>
+    <title>Machine Learning on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Charlie Brummitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
     <lastBuildDate>Sun, 24 Nov 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://cbrummitt.github.io/authors/andr%C3%A9s-g%C3%B3mez-li%C3%A9vano/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cbrummitt.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

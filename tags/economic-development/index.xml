@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrés Gómez-Liévano on Charlie Brummitt</title>
-    <link>https://cbrummitt.github.io/authors/andr%C3%A9s-g%C3%B3mez-li%C3%A9vano/</link>
-    <description>Recent content in Andrés Gómez-Liévano on Charlie Brummitt</description>
+    <title>Economic Development on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/tags/economic-development/</link>
+    <description>Recent content in Economic Development on Charlie Brummitt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
     <lastBuildDate>Sun, 24 Nov 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://cbrummitt.github.io/authors/andr%C3%A9s-g%C3%B3mez-li%C3%A9vano/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cbrummitt.github.io/tags/economic-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,6 +18,15 @@
       <pubDate>Sun, 24 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/id_pat_econ_dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contagious disruptions and complexity traps in economic development</title>
+      <link>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</guid>
       <description></description>
     </item>
     
