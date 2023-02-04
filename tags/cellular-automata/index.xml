@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
-    <lastBuildDate>Sat, 01 Sep 2012 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2012 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://cbrummitt.github.io/tags/cellular-automata/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Boundary Growth in One-Dimensional Cellular Automata</title>
       <link>https://cbrummitt.github.io/publication/boundary_growth_1d_cellular_automata/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/boundary_growth_1d_cellular_automata/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Packard snowflakes on the von Neumann neighborhood</title>
       <link>https://cbrummitt.github.io/publication/packard_snowflakes_von_neumann_neighborhood/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/packard_snowflakes_von_neumann_neighborhood/</guid>
       <description></description>

@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Machine-learned patterns suggest that diversification drives economic development</title>
       <link>https://cbrummitt.github.io/publication/id_pat_econ_dev/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/id_pat_econ_dev/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Contagious disruptions and complexity traps in economic development</title>
       <link>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</link>
-      <pubDate>Mon, 04 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/disruptions_complexity_traps/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>Coupled catastrophes: sudden shifts cascade and hop among interdependent systems</title>
       <link>https://cbrummitt.github.io/publication/coupled_catastrophes/</link>
-      <pubDate>Fri, 06 Nov 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 06 Nov 2015 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/coupled_catastrophes/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>Cascades in multiplex financial networks with debts of different seniority</title>
       <link>https://cbrummitt.github.io/publication/multiplex_financial/</link>
-      <pubDate>Wed, 24 Jun 2015 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/multiplex_financial/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>Jigsaw percolation: What social networks can collaboratively solve a puzzle?</title>
       <link>https://cbrummitt.github.io/publication/jigsaw_percolation/</link>
-      <pubDate>Thu, 21 May 2015 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 21 May 2015 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/jigsaw_percolation/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Threshold cascades with response heterogeneity in multiplex networks</title>
       <link>https://cbrummitt.github.io/publication/threshold_cascade_response_heterogeneity/</link>
-      <pubDate>Mon, 29 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 29 Dec 2014 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/threshold_cascade_response_heterogeneity/</guid>
       <description></description>
@@ -67,7 +67,7 @@
     <item>
       <title>Inside Money, Procyclical Leverage, and Banking Catastrophes</title>
       <link>https://cbrummitt.github.io/publication/inside_money_procyclical_leverage/</link>
-      <pubDate>Tue, 19 Aug 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 19 Aug 2014 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/inside_money_procyclical_leverage/</guid>
       <description></description>
@@ -76,7 +76,7 @@
     <item>
       <title>Bottom-up model of self-organized criticality on networks</title>
       <link>https://cbrummitt.github.io/publication/bottom-up_model_soc_networks/</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/bottom-up_model_soc_networks/</guid>
       <description></description>
@@ -85,7 +85,7 @@
     <item>
       <title>Controlling self-organizing dynamics using models that self-organize</title>
       <link>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</link>
-      <pubDate>Fri, 16 Aug 2013 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/controlling_soc_using_self-organizing_models/</guid>
       <description></description>
@@ -94,7 +94,7 @@
     <item>
       <title>Transdisciplinary electric power grid science</title>
       <link>https://cbrummitt.github.io/publication/power_grid_opinion_pnas/</link>
-      <pubDate>Tue, 23 Jul 2013 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 23 Jul 2013 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/power_grid_opinion_pnas/</guid>
       <description></description>
@@ -103,7 +103,7 @@
     <item>
       <title>Boundary Growth in One-Dimensional Cellular Automata</title>
       <link>https://cbrummitt.github.io/publication/boundary_growth_1d_cellular_automata/</link>
-      <pubDate>Sat, 01 Sep 2012 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/boundary_growth_1d_cellular_automata/</guid>
       <description></description>
@@ -112,7 +112,7 @@
     <item>
       <title>Multiplexity-facilitated cascades in networks</title>
       <link>https://cbrummitt.github.io/publication/multiplexity_facilitated_cascades_networks/</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/multiplexity_facilitated_cascades_networks/</guid>
       <description></description>
@@ -121,7 +121,7 @@
     <item>
       <title>Suppressing cascades of load in interdependent networks</title>
       <link>https://cbrummitt.github.io/publication/suppressing_cascades_interdependent_networks/</link>
-      <pubDate>Tue, 20 Mar 2012 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/suppressing_cascades_interdependent_networks/</guid>
       <description></description>
@@ -130,7 +130,7 @@
     <item>
       <title>A search for the simplest chaotic partial differential equation</title>
       <link>https://cbrummitt.github.io/publication/search_simplest_chaotic_pde/</link>
-      <pubDate>Mon, 20 Jul 2009 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/search_simplest_chaotic_pde/</guid>
       <description></description>
@@ -139,7 +139,7 @@
     <item>
       <title>Packard snowflakes on the von Neumann neighborhood</title>
       <link>https://cbrummitt.github.io/publication/packard_snowflakes_von_neumann_neighborhood/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 -0800</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/packard_snowflakes_von_neumann_neighborhood/</guid>
       <description></description>

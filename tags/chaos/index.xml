@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
-    <lastBuildDate>Mon, 20 Jul 2009 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2009 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://cbrummitt.github.io/tags/chaos/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A search for the simplest chaotic partial differential equation</title>
       <link>https://cbrummitt.github.io/publication/search_simplest_chaotic_pde/</link>
-      <pubDate>Mon, 20 Jul 2009 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 Jul 2009 00:00:00 -0700</pubDate>
       
       <guid>https://cbrummitt.github.io/publication/search_simplest_chaotic_pde/</guid>
       <description></description>
