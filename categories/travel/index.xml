@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Charlie Brummitt</title>
+    <link>https://cbrummitt.github.io/categories/travel/</link>
+    <description>Recent content in Travel on Charlie Brummitt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Charlie Brummitt 2019</copyright>
+    <lastBuildDate>Sat, 04 Feb 2023 15:46:31 -0800</lastBuildDate>
+    
+	<atom:link href="https://cbrummitt.github.io/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biking Cape Cod</title>
+      <link>https://cbrummitt.github.io/post/bike-cape-cod/bike-cape-cod/</link>
+      <pubDate>Sat, 04 Feb 2023 15:46:31 -0800</pubDate>
+      
+      <guid>https://cbrummitt.github.io/post/bike-cape-cod/bike-cape-cod/</guid>
+      <description>Our most salient memory of the early phase of the COVID-19 pandemic was escaping our apartment for a week of biking along Cape Cod and the nearby islands in August.
+Our itinerary We went out on a Sunday and spent 6 days. Our ferries made a triangle so that we could see both islands.
+   Day Itinerary     1 Train to Hyannis, ferry to Martha’s Vineyard.</description>
+    </item>
+    
+  </channel>
+</rss>
